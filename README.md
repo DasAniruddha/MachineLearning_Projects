@@ -1,11 +1,12 @@
-This repository contains file for multiple projects which were done for completing the IIT-K/Edvancer course work on Machine Learning and AI.
+This repository contains file for Three projects which were done for completing the IIT-K/Edvancer course work on Machine Learning and AI.
 
-There are three projects in this repository titled:
+The three projects in this repository are titled as:
  * Junk Propery Listing
- * Pharma
+ * Counterfeit Medicines
  * Insurance Cross-Selling
 
 ## Junk Property Listing
 
-## Pharma
+## Counterfeit Medicines
+
 ## Insurance Cross-Selling
